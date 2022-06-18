@@ -1,0 +1,8 @@
+Reporter: 
+Bug name:
+Bug description: 
+Bug type: 
+Steps to reproduce:
+Expected result: 
+Actual result: 
+Severity: 
